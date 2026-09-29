@@ -48,13 +48,13 @@ I'm a passionate **Web Developer** who enjoys turning ideas into clean, modern, 
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=https://github.com/ayan-aftab&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=https://github.com/ayan-aftab&layout=compact&theme=dark" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/ayan-aftab&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayan-aftab&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayan-aftab&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayan-aftab&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/ayan-aftab&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayan-aftab&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
