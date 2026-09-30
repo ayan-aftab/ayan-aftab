@@ -1,61 +1,163 @@
-<h1 align="center">Hi 👋, I'm Ayan Aftab</h1>
-<h3 align="center">Frontend Developer | Creative Web Designer</h3>
+<div align="center">
 
-<p align="center">
-[<img src="https://img.shields.io/badge/Website-102216?style=for-the-badge&logo=aboutdotme&logoColor=11d452"/>](https://ayanaftab.netlify.app)
-[<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/httpsgithubcomayan-aftab)
-[<img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452"/>](https://linkedin.com/in/https://www.linkedin.com/in/ayan-aftab-22763742a/)
-[<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>](mailto:ayanayanaftab777@gmail.com)
-[<img src="https://img.shields.io/badge/Instagram-102216?style=for-the-badge&logo=instagram&logoColor=11d452"/>](https://instagram.com/https://www.instagram.com/ayafterd4rk)
-[<img src="https://img.shields.io/badge/YouTube-102216?style=for-the-badge&logo=youtube&logoColor=11d452"/>](https://youtube.com/@https://www.youtube.com/@Auto-Fusion-A)
-</p>
+# 👋 Hey, I'm Ayan Aftab
 
-<hr/>
+### 💻 Frontend Developer · Creative Web Designer · Automotive Enthusiast
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=httpsgithubcomayan-aftab&color=11d452&style=for-the-badge" alt="Visitor Badge" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Frontend+Developer+%F0%9F%92%BB;Creative+Web+Designer+%F0%9F%8E%A8;Building+Clean+%26+Responsive+Websites+%E2%9A%A1;Car+History+%26+Motorsports+Enthusiast+%F0%9F%8F%8E%EF%B8%8F" alt="Typing SVG" />
 
-## 👨‍💻 About Me
+<br>
 
-Hi, I'm **Ayan Aftab** 👋
-I'm a passionate **Web Developer** who enjoys turning ideas into clean, modern, and interactive websites.
+<img src="https://komarev.com/ghpvc/?username=ayan-aftab&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views" />
 
-🚀 Currently learning and improving my skills in **HTML, CSS & JavaScript**
-🎨 I love creating **minimal, `responsive` & visually appealing** web experiences
-💻 Always experimenting with new technologies and building projects
-📚 Focused on learning, improving, and becoming a better developer every day
-
-> **Code. Create. Learn. Repeat. ⚡**
-
-## 💻 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-102216?style=for-the-badge&logo=css3&logoColor=11d452" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/VS%20Code-102216?style=for-the-badge&logo=visualstudiocode&logoColor=11d452" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
-  <img src="https://img.shields.io/badge/Canva-102216?style=for-the-badge&logo=canva&logoColor=11d452" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-</p>
-
-## 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayan-aftab&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayan-aftab&layout=compact&theme=dark" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayan-aftab&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayan-aftab&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
-</p>
+</div>
 
 ---
-Built with [GPRG](https://gprg.bhalli.dev)
+
+## 🧑‍💻 About Me
+
+```javascript
+const ayan = {
+    name: "Ayan Aftab",
+    location: "Pakistan 🇵🇰",
+    role: "Frontend Developer",
+    currentlyLearning: "Full Stack Web Application Development",
+    interests: [
+        "Web Development",
+        "Creative Web Design",
+        "Automotive History",
+        "BMW M & Motorsports"
+    ],
+    mindset: "Build. Learn. Improve. Repeat."
+};
+```
+
+* 🔭 Currently working on **YouTube Homepage**
+* 🌱 Currently learning **Full Stack Web Application Development**
+* 👯 Looking to collaborate on **Frontend & Web Development Projects**
+* 💻 All of my projects are available on my **portfolio**
+* 📝 I regularly write articles on **Car History & Automotive Evolution**
+* 💬 Ask me about **Frontend Development**
+* 📄 My resume is available **[here](https://drive.google.com/file/d/1Yofy4fXlD9UDqLtQ7WsL4y6UB23SpgFU/view?usp=sharing)**
+* ⚡ Fun fact: **I love writing clean code almost as much as I love BMW M cars & motorsports.**
+
+---
+
+## 🚀 Current Project
+
+### 🎬 YouTube Homepage Clone
+
+A frontend recreation of the YouTube homepage built while improving my HTML & CSS skills.
+
+🔗 **[View Project](https://ayan-aftab.github.io/youtube-homepage/)**
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+<br><b>HTML5</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+<br><b>CSS3</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+<br><b>JavaScript</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
+<br><b>Figma</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="50"/>
+<br><b>Photoshop</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50"/>
+<br><b>Blender</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50"/>
+<br><b>Unity</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayan-aftab&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFFFFF" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayan-aftab&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ayan-aftab&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ayan-aftab&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ayan-aftab">
+<img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000" />
+</a>
+
+<a href="https://www.youtube.com/@auto-fusion-a">
+<img src="https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=000000" />
+</a>
+
+<a href="mailto:ayanayanaftab777@gmail.com">
+<img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Code. Create. Learn. Repeat.
+
+**Building interfaces today. Building experiences tomorrow.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
+
+</div>
