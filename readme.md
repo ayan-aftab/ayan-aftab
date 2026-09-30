@@ -1,55 +1,60 @@
 <div align="center">
 
-# 👋 Hey, I'm Ayan Aftab
-
-### 💻 Frontend Developer · Creative Web Designer · Automotive Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Frontend+Developer+%F0%9F%92%BB;Creative+Web+Designer+%F0%9F%8E%A8;Building+Clean+%26+Responsive+Websites+%E2%9A%A1;Car+History+%26+Motorsports+Enthusiast+%F0%9F%8F%8E%EF%B8%8F" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=180&section=header&text=AYAN%20AFTAB&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ayan-aftab&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=Frontend+Developer+%7C+Creative+Web+Designer;Turning+Ideas+Into+Clean+Web+Experiences;Learning+Full+Stack+Development;Code+%7C+Design+%7C+Cars+%7C+Motorsports" alt="Typing SVG"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ayan-aftab&label=PROFILE+VIEWS&color=111111&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🖤 About Me
 
-```javascript
-const ayan = {
-    name: "Ayan Aftab",
-    location: "Pakistan 🇵🇰",
-    role: "Frontend Developer",
-    currentlyLearning: "Full Stack Web Application Development",
-    interests: [
-        "Web Development",
-        "Creative Web Design",
-        "Automotive History",
-        "BMW M & Motorsports"
-    ],
-    mindset: "Build. Learn. Improve. Repeat."
-};
-```
+Hey! I'm **Ayan Aftab**, a passionate **Frontend Developer** from Pakistan 🇵🇰 who enjoys turning ideas into clean, responsive, and creative web experiences.
 
-* 🔭 Currently working on **YouTube Homepage**
+* 🔭 Currently working on **Frontend Projects & YouTube Homepage Clone**
 * 🌱 Currently learning **Full Stack Web Application Development**
-* 👯 Looking to collaborate on **Frontend & Web Development Projects**
-* 💻 All of my projects are available on my **portfolio**
-* 📝 I regularly write articles on **Car History & Automotive Evolution**
-* 💬 Ask me about **Frontend Development**
-* 📄 My resume is available **[here](https://drive.google.com/file/d/1Yofy4fXlD9UDqLtQ7WsL4y6UB23SpgFU/view?usp=sharing)**
+* 👯 Looking to collaborate on **Web Development Projects**
+* 💻 Interested in **Frontend Development & Creative Web Design**
+* 📝 I regularly write about **Car History & Automotive Evolution**
+* 💬 Ask me about **HTML, CSS, Frontend Development & Web Design**
+* 📄 Check out my **[Resume](https://drive.google.com/file/d/1Yofy4fXlD9UDqLtQ7WsL4y6UB23SpgFU/view?usp=sharing)**
 * ⚡ Fun fact: **I love writing clean code almost as much as I love BMW M cars & motorsports.**
 
 ---
 
-## 🚀 Current Project
+## ⚡ What I'm Building
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FRONTEND-DEVELOPMENT-0D1117?style=for-the-badge&logo=codeforces&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/WEB-DESIGN-0D1117?style=for-the-badge&logo=figma&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/RESPONSIVE-WEBSITES-0D1117?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/FULL%20STACK-LEARNING-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
+</div>
+
+---
+
+## 🚀 Featured Project
 
 ### 🎬 YouTube Homepage Clone
 
-A frontend recreation of the YouTube homepage built while improving my HTML & CSS skills.
+A frontend recreation of the YouTube homepage built to improve my **HTML, CSS and responsive design** skills.
 
-🔗 **[View Project](https://ayan-aftab.github.io/youtube-homepage/)**
+<div align="center">
+
+<a href="https://ayan-aftab.github.io/youtube-homepage/">
+<img src="https://img.shields.io/badge/%E2%96%B6%20VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000"/>
+</a>
+
+</div>
 
 ---
 
@@ -60,38 +65,38 @@ A frontend recreation of the YouTube homepage built while improving my HTML & CS
 <table>
 <tr>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-<br><b>HTML5</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<br><sub><b>HTML5</b></sub>
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-<br><b>CSS3</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<br><sub><b>CSS3</b></sub>
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-<br><b>JavaScript</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<br><sub><b>JavaScript</b></sub>
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
-<br><b>Figma</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
+<br><sub><b>Figma</b></sub>
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="50"/>
-<br><b>Photoshop</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="45"/>
+<br><sub><b>Photoshop</b></sub>
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50"/>
-<br><b>Blender</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="45"/>
+<br><sub><b>Blender</b></sub>
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50"/>
-<br><b>Unity</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45"/>
+<br><sub><b>Unity</b></sub>
 </td>
 </tr>
 </table>
@@ -104,9 +109,9 @@ A frontend recreation of the YouTube homepage built while improving my HTML & CS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayan-aftab&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFFFFF" height="180"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ayan-aftab&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayan-aftab&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" height="180"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayan-aftab&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF"/>
 
 </div>
 
@@ -114,7 +119,7 @@ A frontend recreation of the YouTube homepage built while improving my HTML & CS
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ayan-aftab&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
+<img src="https://streak-stats.demolab.com?user=ayan-aftab&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666"/>
 
 </div>
 
@@ -124,26 +129,36 @@ A frontend recreation of the YouTube homepage built while improving my HTML & CS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ayan-aftab&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=ayan-aftab&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayan-aftab&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://linkedin.com/in/ayan-aftab">
-<img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000" />
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://www.youtube.com/@auto-fusion-a">
-<img src="https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=000000" />
+<img src="https://img.shields.io/badge/YOUTUBE-0D1117?style=for-the-badge&logo=youtube&logoColor=FFFFFF"/>
 </a>
 
 <a href="mailto:ayanayanaftab777@gmail.com">
-<img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000" />
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
 </div>
@@ -152,12 +167,18 @@ A frontend recreation of the YouTube homepage built while improving my HTML & CS
 
 <div align="center">
 
-### ⚡ Code. Create. Learn. Repeat.
-
-**Building interfaces today. Building experiences tomorrow.**
+### `BUILD • CREATE • LEARN • REPEAT`
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=888888&center=true&vCenter=true&width=600&lines=Clean+Code.+Creative+Design.+Fast+Cars.;Always+learning.+Always+building." alt="Footer Typing"/>
+
+<br><br>
+
+🏎️ **Code with precision. Build with passion.**
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=120&section=footer" width="100%"/>
 
 </div>
