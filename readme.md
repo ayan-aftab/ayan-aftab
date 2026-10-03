@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=190&section=header&text=AYAN%20AFTAB&fontSize=48&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" width="100%"/>
+<img src="./rgb-header.svg" width="100%" alt="AYAN AFTAB"/>
 
 <br>
 
@@ -8,9 +8,7 @@
 
 <br><br>
 
-<marquee behavior="scroll" direction="left" scrollamount="6" width="80%">
-  <b>💻 BUILD • 🎨 DESIGN • ⚡ CREATE • 🚀 LEARN • 🏎️ EXPLORE • 💻 BUILD • 🎨 DESIGN • ⚡ CREATE</b>
-</marquee>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1800&pause=300&color=FFFFFF&center=true&vCenter=true&width=800&lines=%F0%9F%92%BB+BUILD+%E2%80%A2+%F0%9F%8E%A8+DESIGN+%E2%80%A2+%E2%9A%A1+CREATE+%E2%80%A2+%F0%9F%9A%80+LEARN+%E2%80%A2+%F0%9F%8F%8E%EF%B8%8F+EXPLORE" alt="Animated Banner"/>
 
 <br><br>
 
@@ -166,13 +164,11 @@ A frontend recreation of the YouTube homepage built to improve my **HTML, CSS an
 
 <div align="center">
 
-<marquee behavior="alternate" scrollamount="5" width="70%">
-  <b>⚡ CODE • CREATE • DEBUG • REPEAT ⚡</b>
-</marquee>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1800&pause=300&color=FFFFFF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+CODE+%E2%80%A2+CREATE+%E2%80%A2+DEBUG+%E2%80%A2+REPEAT+%E2%9A%A1" alt="Footer Animation"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=888888&center=true&vCenter=true&width=650&lines=Clean+Code.+Creative+Design.+Fast+Cars.;Always+Learning.+Always+Building.;Turning+Ideas+Into+Digital+Experiences." alt="Footer Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=650&lines=Clean+Code.+Creative+Design.+Fast+Cars.;Always+Learning.+Always+Building.;Turning+Ideas+Into+Digital+Experiences." alt="Footer Animation"/>
 
 <br><br>
 
@@ -180,6 +176,6 @@ A frontend recreation of the YouTube homepage built to improve my **HTML, CSS an
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%"/>
+<img src="./rgb-header.svg" width="100%" alt="RGB Footer"/>
 
 </div>
