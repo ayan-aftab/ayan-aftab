@@ -1,0 +1,68 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="rgb" x1="0%" y1="0%" x2="100%" y2="0%">
+
+<stop offset="0%" stop-color="#00ff00">
+<animate
+attributeName="stop-color"
+values="#00ff00;#0066ff;#ff00ff;#8000ff;#00ff00"
+dur="16s"
+repeatCount="indefinite"/>
+</stop>
+
+<stop offset="50%" stop-color="#0066ff">
+<animate
+attributeName="stop-color"
+values="#0066ff;#ff00ff;#8000ff;#00ff00;#0066ff"
+dur="16s"
+repeatCount="indefinite"/>
+</stop>
+
+<stop offset="100%" stop-color="#ff00ff">
+<animate
+attributeName="stop-color"
+values="#ff00ff;#8000ff;#00ff00;#0066ff;#ff00ff"
+dur="16s"
+repeatCount="indefinite"/>
+</stop>
+
+</linearGradient>
+
+</defs>
+
+<rect width="1200" height="220" fill="#000000"/>
+
+<rect
+x="5"
+y="5"
+width="1190"
+height="210"
+rx="25"
+fill="none"
+stroke="url(#rgb)"
+stroke-width="8"/>
+
+<text
+x="600"
+y="105"
+text-anchor="middle"
+font-family="Arial, Helvetica, sans-serif"
+font-size="52"
+font-weight="bold"
+fill="url(#rgb)">
+AYAN AFTAB
+</text>
+
+<text
+x="600"
+y="150"
+text-anchor="middle"
+font-family="monospace"
+font-size="18"
+fill="#ffffff">
+FRONTEND DEVELOPER • CREATIVE WEB DESIGNER
+</text>
+
+</svg>
