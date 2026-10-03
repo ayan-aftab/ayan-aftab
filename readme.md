@@ -4,11 +4,19 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=Frontend+Developer+%7C+Creative+Web+Designer;Building+Clean+%26+Responsive+Websites;Learning+Full+Stack+Development;Code+%7C+Design+%7C+Cars+%7C+Motorsports" alt="Typing Animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=Frontend+Developer+%7C+Creative+Web+Designer;Building+Clean+%26+Responsive+Websites;Learning+Full+Stack+Development;Code+%7C+Design+%7C+Cars+%7C+Motorsports">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=750&lines=Frontend+Developer+%7C+Creative+Web+Designer;Building+Clean+%26+Responsive+Websites;Learning+Full+Stack+Development;Code+%7C+Design+%7C+Cars+%7C+Motorsports">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=750&lines=Frontend+Developer+%7C+Creative+Web+Designer;Building+Clean+%26+Responsive+Websites;Learning+Full+Stack+Development;Code+%7C+Design+%7C+Cars+%7C+Motorsports" alt="Typing Animation">
+</picture>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1800&pause=300&color=FFFFFF&center=true&vCenter=true&width=800&lines=%F0%9F%92%BB+BUILD+%E2%80%A2+%F0%9F%8E%A8+DESIGN+%E2%80%A2+%E2%9A%A1+CREATE+%E2%80%A2+%F0%9F%9A%80+LEARN+%E2%80%A2+%F0%9F%8F%8E%EF%B8%8F+EXPLORE" alt="Animated Banner"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1800&pause=300&color=FFFFFF&center=true&vCenter=true&width=800&lines=%F0%9F%92%BB+BUILD+%E2%80%A2+%F0%9F%8E%A8+DESIGN+%E2%80%A2+%E2%9A%A1+CREATE+%E2%80%A2+%F0%9F%9A%80+LEARN+%E2%80%A2+%F0%9F%8F%8E%EF%B8%8F+EXPLORE">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1800&pause=300&color=000000&center=true&vCenter=true&width=800&lines=%F0%9F%92%BB+BUILD+%E2%80%A2+%F0%9F%8E%A8+DESIGN+%E2%80%A2+%E2%9A%A1+CREATE+%E2%80%A2+%F0%9F%9A%80+LEARN+%E2%80%A2+%F0%9F%8F%8E%EF%B8%8F+EXPLORE">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1800&pause=300&color=000000&center=true&vCenter=true&width=800&lines=%F0%9F%92%BB+BUILD+%E2%80%A2+%F0%9F%8E%A8+DESIGN+%E2%80%A2+%E2%9A%A1+CREATE+%E2%80%A2+%F0%9F%9A%80+LEARN+%E2%80%A2+%F0%9F%8F%8E%EF%B8%8F+EXPLORE" alt="Animated Banner">
+</picture>
 
 <br><br>
 
@@ -164,11 +172,19 @@ A frontend recreation of the YouTube homepage built to improve my **HTML, CSS an
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1800&pause=300&color=FFFFFF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+CODE+%E2%80%A2+CREATE+%E2%80%A2+DEBUG+%E2%80%A2+REPEAT+%E2%9A%A1" alt="Footer Animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1800&pause=300&color=FFFFFF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+CODE+%E2%80%A2+CREATE+%E2%80%A2+DEBUG+%E2%80%A2+REPEAT+%E2%9A%A1">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1800&pause=300&color=000000&center=true&vCenter=true&width=700&lines=%E2%9A%A1+CODE+%E2%80%A2+CREATE+%E2%80%A2+DEBUG+%E2%80%A2+REPEAT+%E2%9A%A1">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1800&pause=300&color=000000&center=true&vCenter=true&width=700&lines=%E2%9A%A1+CODE+%E2%80%A2+CREATE+%E2%80%A2+DEBUG+%E2%80%A2+REPEAT+%E2%A1%9A" alt="Footer Animation">
+</picture>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=650&lines=Clean+Code.+Creative+Design.+Fast+Cars.;Always+Learning.+Always+Building.;Turning+Ideas+Into+Digital+Experiences." alt="Footer Animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=650&lines=Clean+Code.+Creative+Design.+Fast+Cars.;Always+Learning.+Always+Building.;Turning+Ideas+Into+Digital+Experiences.">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=000000&center=true&vCenter=true&width=650&lines=Clean+Code.+Creative+Design.+Fast+Cars.;Always+Learning.+Always+Building.;Turning+Ideas+Into+Digital+Experiences.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=000000&center=true&vCenter=true&width=650&lines=Clean+Code.+Creative+Design.+Fast+Cars.;Always+Learning.+Always+Building.;Turning+Ideas+Into+Digital+Experiences." alt="Footer Animation">
+</picture>
 
 <br><br>
 
